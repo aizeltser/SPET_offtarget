@@ -1,0 +1,14 @@
+data/*
+!data/README.md
+!data/.gitkeep
+!data/primers.bed
+!data/repeats.bed
+!data/example_*.bam
+!data/example.bed
+results/
+results.zip
+__pycache__/
+.env
+*.pyc
+*.pkl
+*.log
